@@ -22,9 +22,9 @@ A powerful, feature-rich Discord bot for server management, moderation, utility,
 ---
 
 ## Getting Started
-1. **Install dependencies**: Make sure you have Python 3.8+ and install required packages (see `requirements.txt`).
-2. **Configure**: Edit `config.json` with your bot token and settings.
-3. **Run**: `python main.py`
+1. Purchase **lyno** from [here](<https://discord.gg/lyno>)
+2. Invite **lyno** from [here](<https://discord.com/oauth2/authorize?client_id=1383277403748565032&permissions=8&scope=bot+applications.commands>)
+3. Check out these commands and there will be more for future updates.
 
 ---
 
@@ -166,4 +166,5 @@ A powerful, feature-rich Discord bot for server management, moderation, utility,
 
 ---
 
-**Made by Lyno**
+**© copyright Lyno 2025, all rights reserved**
+[Terms](<https://github.com/xcig/lyno/blob/main/tos.md>)
