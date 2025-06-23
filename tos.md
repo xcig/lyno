@@ -1,5 +1,5 @@
 # Terms of Service Agreement
-**Effective Date:** March 18, 2025, 8:23 PM PST
+**Effective Date:** June 23, 2025, 7:02 AM PST
 
 ## 1. Acceptance of Terms
 By accessing or using Lyno's services ("Services"), including but not limited to visiting the Lyno website at [lyno.bot](https://lyno.bot) ("Website") or adding the Lyno Bot ("Bot") to your Discord server, you ("User") acknowledge that you have read, understood, and agree to be legally bound by these Terms of Service ("Agreement"). If you do not agree to these terms in their entirety, you are prohibited from using the Services and must discontinue use immediately.
