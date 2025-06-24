@@ -3,7 +3,7 @@ An unleashed professional-grade choice and role management system for Discord se
 
 # Commands
 
-[Click me to redirect](<>)
+[Click me to redirect](<https://github.com/xcig/lyno/blob/main/commands.md>)
 
 # Terms Of Service
 [Click me to redirect](<https://github.com/xcig/lyno/blob/main/tos.md>)
